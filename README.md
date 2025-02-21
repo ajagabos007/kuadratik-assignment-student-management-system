@@ -52,7 +52,7 @@ This project is a simple REST API built with Laravel to manage student data and 
 - Generate certificate 
     ```bash 
     php artisan jwt:generate-certs
--- see more commands on **[Lavaravel JWT Auth.](https://laravel-jwt-auth.readthedocs.io/en/latest/laravel-installation/)**
+- See more commands on **[Lavaravel JWT Auth.](https://laravel-jwt-auth.readthedocs.io/en/latest/laravel-installation/)**
 
 
 6. **Run Migrations**
